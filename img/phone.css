@@ -1,0 +1,7 @@
+body{
+    background-color: brown;
+}
+.food{
+    display: flex;
+    flex-direction: column;
+}
